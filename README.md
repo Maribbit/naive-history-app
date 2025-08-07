@@ -1,6 +1,6 @@
-# Naive History - 交互式历史时间轴
+# Naive History - Distribution
 
-An interactive historical timeline application that allows users to explore and compare historical events from different civilizations.
+This repository contains the built distribution files for Naive History, an interactive historical timeline application that allows users to explore and compare historical events from different civilizations.
 
 ## 🌟 Features
 
@@ -27,7 +27,7 @@ Naive History provides an engaging way to explore historical events across diffe
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This repository contains the built distribution files for the Naive History application.
 
 ## 👨‍💻 Author
 
