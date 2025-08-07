@@ -7,23 +7,16 @@ This repository contains the built distribution files for Naive History, an inte
 - Interactive timeline visualization
 - Drag and drop functionality for creating event tracks
 - Multi-civilization historical event comparison
-- Responsive design for all devices
 - Bilingual support (English/Chinese)
 
 ## 🚀 Demo
 
-Visit the live demo: [Naive History](https://your-username.github.io/naive-history-app)
-
-## 📖 About
-
-Naive History provides an engaging way to explore historical events across different civilizations. Users can drag tags to create custom tracks and discover connections throughout history.
+Visit the live demo: [Naive History](https://maribbit.github.io/naive-history-app)
 
 ## 🛠️ Technologies
 
-- Vue.js
-- TypeScript
-- Modern CSS
-- Responsive Design
+- [Vue.js](https://vuejs.org/)
+- [Naive UI](https://github.com/tusen-ai/naive-ui)
 
 ## 📄 License
 
