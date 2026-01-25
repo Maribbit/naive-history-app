@@ -13,6 +13,8 @@ This repository contains the built distribution files for Naive History, an inte
 
 Visit the live demo: [Naive History](https://maribbit.github.io/naive-history-app)
 
+国内用户请访问: [Naive History 官方](https://naive-history.maribbit.com)
+
 ## 🛠️ Technologies
 
 - [Vue.js](https://vuejs.org/)
